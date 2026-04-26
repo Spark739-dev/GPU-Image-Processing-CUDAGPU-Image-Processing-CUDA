@@ -25,3 +25,10 @@ Make sure CUDA Toolkit is installed.
 
 ```bash
 make
+```
+## Proof of Exceution:
+
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/80937a2a-201b-4761-afa1-034fad4cc3f6" />
+
+<img width="450" height="487" alt="2" src="https://github.com/user-attachments/assets/e7f98c4c-23b3-4cca-88b2-502c38deca17" />
+
